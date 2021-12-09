@@ -6,6 +6,7 @@
 *.fig
 gitGuide.txt
 screenshot.jpg
+style-guide.md
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
